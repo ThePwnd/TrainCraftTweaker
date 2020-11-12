@@ -1,0 +1,12 @@
+/.gradle
+/.settings
+/bin
+/build
+/eclipse
+/gradle
+/lib/src
+/lib/Traincraft-4.3.0_005.jar
+.classpath
+.project
+gradlew
+gradlew.bat
